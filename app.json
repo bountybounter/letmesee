@@ -2,13 +2,13 @@
   "name": "inspirational_scraping",
   "version": "1.0.0",
   "description": "Node app utilizing python web scraping (beautiful soup) to generate comments from adult videos and paste them over inspirational pictures from reddit",
-  "main": "index.js",
+  "success_url": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "NONE"
+    "url": "https://github.com/bountybounter/letmesee"
   },
   "author": "Tony De La Nuez",
   "license": "MIT",
